@@ -1,5 +1,5 @@
 ## 🚀 Apresentação Pessoal 
-Meu nome é Vinicius Carodoso, sou formado em Gestão de Tecnologia da Informação e sou apaixonado pelo mundo dos dados e oque eles podem fazer :) !
+Meu nome é Vinicius Carodoso, sou formado em Gestão de Tecnologia da Informação e sou apaixonado pelo mundo dos dados e o que eles podem fazer :) !
 
 ## 💻 Linguagens de Programação e Banco de Dados
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
@@ -9,8 +9,8 @@ Meu nome é Vinicius Carodoso, sou formado em Gestão de Tecnologia da Informaç
 
 ## 📊 Estatísticas
 [![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusCardoso7&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCardoso7&repo=Bootcamp-Data-DIO-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusCardoso7/Bootcamp-Data-DIO-Python)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusCardoso7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 📫 Vamos nos Conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuscardoso2020/) 
